@@ -1,0 +1,27 @@
+{
+  "name": "hybrid-schedule-organizer",
+  "version": "0.0.1",
+  "description": "A Schedule Organizer for Hybrid Education",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hybrid-Education-Action-Team/Hybrid-Schedule-Organizer.git"
+  },
+  "keywords": [
+    "hybrid",
+    "education",
+    "scheduling"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hybrid-Education-Action-Team/Hybrid-Schedule-Organizer/issues"
+  },
+  "homepage": "https://github.com/Hybrid-Education-Action-Team/Hybrid-Schedule-Organizer#readme",
+  "dependencies": {
+    "xlsx": "^0.16.4"
+  }
+}
