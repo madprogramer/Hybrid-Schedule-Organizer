@@ -1,0 +1,21 @@
+{
+  "name": "hybrid-schedule-organizer",
+  "collaborators": [
+    "madprogramer <themadprogramer@gmail.com>"
+  ],
+  "description": "A Schedule Organizer for Schools Pursuing Hybrid Education",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hybrid-Education-Action-Team/Hybrid-Schedule-Organizer"
+  },
+  "files": [
+    "hybrid_schedule_organizer_bg.wasm",
+    "hybrid_schedule_organizer.js",
+    "hybrid_schedule_organizer.d.ts"
+  ],
+  "module": "hybrid_schedule_organizer.js",
+  "types": "hybrid_schedule_organizer.d.ts",
+  "sideEffects": false
+}
