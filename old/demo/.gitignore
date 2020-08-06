@@ -1,0 +1,4 @@
+node_modules/*
+
+!*/hybrid-schedule-organizer
+!*/xlsx
