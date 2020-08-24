@@ -16,7 +16,7 @@
     "rimraf": "^3.0.0"
   },
   "dependencies": {
-    "gridjs": "^1.15.1",
+    "gridjs": "^1.15.4",
     "xlsx": "^0.16.5"
   }
 }
